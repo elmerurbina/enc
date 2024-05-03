@@ -11,7 +11,9 @@ This repository contains Python scripts for encrypting and decrypting files usin
 
 ## Usage
 
-1. Clone the repository to your local machine:
+1. If you not have a Python interpreter installed on your computer, go to dist folder and you can run the encryptFile and decryptFile directly.
+
+2. Clone the repository to your local machine:
 
 git clone https://github.com/elmerurbina/enc.git
 
