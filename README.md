@@ -25,9 +25,6 @@ pip install -r requirements.txt
 - `encryptFile.py`: Run this script to encrypt files.
 - `decryptFile.py`: Run this script to decrypt encrypted files.
 
-## License
-
-This project is licensed under the GNU General Public License (GPL) - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
